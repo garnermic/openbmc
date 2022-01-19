@@ -21,7 +21,7 @@ import unittest
 
 from common.base_fw_util_test import CommonFwUtilTest
 
-PLATFORM = "fby3"
+PLATFORM = "fby35"
 
 
 class FwUtilVersionTest(CommonFwUtilTest, unittest.TestCase):
